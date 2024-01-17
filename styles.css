@@ -90,6 +90,11 @@ body {
 
 }
 
+.emoji:hover{
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
 .alias {
     font-size: 1.05rem;
     text-align: center;
